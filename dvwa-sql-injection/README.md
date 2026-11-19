@@ -34,10 +34,12 @@ Este proyecto forma parte de mi aprendizaje en ciberseguridad y pruebas de penet
 
 ---
 
-## Estructura del repositorio
+## Estructura del laboratorio
+
+> Estructura prevista; las carpetas se irán creando conforme se agregue la evidencia.
 
 ```
-DVWA-SQL-Injection-Lab/
+dvwa-sql-injection/
 │
 ├── README.md
 │
